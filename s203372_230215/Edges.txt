@@ -1,0 +1,14 @@
+A0 2 fF
+A0 5 h9
+h9 3 123
+fF 1 123
+F2 3 fF
+123 2 F2
+F2 4 d1
+F2 3 Dd
+d1 2 Dd
+Dd 5 xd
+d1 4 xd
+xd 4 A0
+d1 1 h9
+123 4 d1

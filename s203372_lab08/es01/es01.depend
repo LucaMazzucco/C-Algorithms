@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1416933498 source:d:\luca\programmi in c\s203372_lab08\es01\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"item.h"
+
+1416932599 d:\luca\programmi in c\s203372_lab08\es01\item.h
+
+1416954845 source:d:\luca\programmi in c\s203372_lab08\es01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"table.h"
+
+1416954845 d:\luca\programmi in c\s203372_lab08\es01\table.h
+
+1416955027 source:d:\luca\programmi in c\s203372_lab08\es01\table.c
+	<stdio.h>
+	<stdlib.h>
+	"table.h"
+	"item.h"
+

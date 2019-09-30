@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1419204454 source:d:\luca\programmi in c\s203372_lab12\es01\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+	"city.h"
+
+1419195126 d:\luca\programmi in c\s203372_lab12\es01\graph.h
+
+1419199643 source:d:\luca\programmi in c\s203372_lab12\es01\city.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"city.h"
+
+1419199643 d:\luca\programmi in c\s203372_lab12\es01\city.h
+
+1419195210 source:d:\luca\programmi in c\s203372_lab12\es01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+

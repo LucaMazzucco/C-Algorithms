@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1419268588 source:d:\luca\programmi in c\s203372_lab12\es02\client.c
+	<stdio.h>
+	<stdlib.h>
+	"client.h"
+
+1419268588 d:\luca\programmi in c\s203372_lab12\es02\client.h
+
+1419267794 source:d:\luca\programmi in c\s203372_lab12\es02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1419267128 d:\luca\programmi in c\s203372_lab12\es02\queue.h
+
+1419268588 source:d:\luca\programmi in c\s203372_lab12\es02\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+	"client.h"
+

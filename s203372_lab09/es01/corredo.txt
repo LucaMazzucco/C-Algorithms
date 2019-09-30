@@ -1,0 +1,21 @@
+14
+medicine 0.300 10
+cambio 1.500 6
+fotocamera 0.250 9
+pantaloni 1.200 4
+camicia 0.500 3
+giaccone 3.500 1
+rasoio 0.150 8
+spazzolino 0.01 3
+cellulare 0.300 7
+computer 2.5 5
+forbici 0.05 1
+libro 0.4 5
+sigarette 0.1 2
+accendino 0.1 2
+acqua 0.5 4
+mela 0.15 1
+taccuino 0.2 4
+penna 0.03 4
+cappello 0.31 3
+fiori 0.7 1

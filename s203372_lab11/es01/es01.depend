@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1418423574 source:d:\luca\programmi in c\s203372_lab11\es01\bst.c
+	<stdio.h>
+	<stdlib.h>
+	"bst.h"
+	"item.h"
+
+1418423410 d:\luca\programmi in c\s203372_lab11\es01\bst.h
+
+1418407582 d:\luca\programmi in c\s203372_lab11\es01\item.h
+
+1418407582 source:d:\luca\programmi in c\s203372_lab11\es01\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"item.h"
+
+1418423410 source:d:\luca\programmi in c\s203372_lab11\es01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bst.h"
+
+1418423574 source:d:\luca\desktop\materiale didattico politecnico\algoritmi e programmazione\programmi in c\s203372_lab11\es01\bst.c
+	<stdio.h>
+	<stdlib.h>
+	"bst.h"
+	"item.h"
+
+1418423410 d:\luca\desktop\materiale didattico politecnico\algoritmi e programmazione\programmi in c\s203372_lab11\es01\bst.h
+
+1418407582 d:\luca\desktop\materiale didattico politecnico\algoritmi e programmazione\programmi in c\s203372_lab11\es01\item.h
+
+1418407582 source:d:\luca\desktop\materiale didattico politecnico\algoritmi e programmazione\programmi in c\s203372_lab11\es01\item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"item.h"
+
+1418424626 source:d:\luca\desktop\materiale didattico politecnico\algoritmi e programmazione\programmi in c\s203372_lab11\es01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bst.h"
+

@@ -1,0 +1,32 @@
+12
+Aosta ValdAosta
+Verbania Piemonte
+Varese Lombardia
+Torino Piemonte
+Novara Piemonte
+Milano Lombardia
+Cuneo Piemonte 
+Alessandria Piemonte
+Pavia Lombardia
+Imperia Liguria
+Savona Liguria
+Genova Liguria
+Aosta Torino 10
+Verbania Novara 10
+Verbania Varese 5
+Verbania Milano 7
+Torino Novara 20
+Novara Milano 30
+Torino Milano 100
+Torino Imperia 10
+Torino Cuneo 40
+Cuneo Imperia 20
+Imperia Savona 8
+Imperia Genova 9
+Savona Genova 15
+Genova Alessandria 10
+Genova Pavia 6
+Milano Genova 70
+Milano Pavia 20
+Alessandria Pavia 7
+Varese Milano 12

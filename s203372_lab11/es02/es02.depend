@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1418478377 source:d:\luca\programmi in c\s203372_lab11\es02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hash.h"
+
+1418478439 source:d:\luca\programmi in c\s203372_lab11\es02\hash.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hash.h"
+
+1418478137 d:\luca\programmi in c\s203372_lab11\es02\hash.h
+
+1418482039 source:d:\luca\desktop\materiale didattico politecnico\algoritmi e programmazione\programmi in c\s203372_lab11\es02\hash.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hash.h"
+
+1418481737 d:\luca\desktop\materiale didattico politecnico\algoritmi e programmazione\programmi in c\s203372_lab11\es02\hash.h
+
+1418482149 source:d:\luca\desktop\materiale didattico politecnico\algoritmi e programmazione\programmi in c\s203372_lab11\es02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hash.h"
+

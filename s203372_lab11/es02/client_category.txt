@@ -1,0 +1,42 @@
+
+Base
+     0002  Francesca  Rossi
+     0005  Ilaria  Rivetta
+     0009  Susanna  Camusso
+     0011  Massimo  D'Alema
+     0016  Justin  Timberlake
+     0022  Lily  Gruber
+     0023  Carl  Jhonson
+     0024  Big  Smoke
+
+Bronze
+     0010  Umberto  Bossi
+     0015  Lady  Gaga
+     0019  Asser  Arafath
+     0025  Adam  Smith
+     0031  Willy  Coyote
+
+Silver
+     0003  Davide  Manna
+     0013  Ivan  Ogareff
+     0018  Tony  Abbot
+     0021  Barack  Obama
+     0026  Henry  Ford
+     0029  Buzz  Aldrin
+
+Gold
+     0004  Luca  Merendino
+     0007  Silvio  Berlusconi
+     0014  Michael  Jackson
+     0020  Akira  Toryama
+     0028  Paperon  DePaperoni
+     0030  Gesù  Cristo
+
+Premium
+     0000  Papa  Francesco
+     0001  Luca  Mazzucco
+     0006  Matteo  Renzi
+     0008  Vladimir  Putin
+     0012  Tony  Stark
+     0017  Steven  Tyler
+     0027  Mr.  Muscolo

@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1415403266 source:d:\luca\programmi in c\s203372_lab06\es01\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libscelta.h"
+	"libvar.h"
+
+1415384607 d:\luca\programmi in c\s203372_lab06\es01\libscelta.h
+
+1415402603 source:d:\luca\programmi in c\s203372_lab06\es01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libscelta.h"
+	"libpila.h"
+	"libcoda.h"
+	"libpriorita.h"
+
+1415398372 d:\luca\programmi in c\s203372_lab06\es01\libvar.h
+
+1415405567 source:d:\luca\programmi in c\s203372_lab06\es01\coda.c
+	<stdio.h>
+	<stdlib.h>
+	"libcoda.h"
+	"libvar.h"
+
+1415384607 d:\luca\programmi in c\s203372_lab06\es01\libcoda.h
+
+1415384607 d:\luca\programmi in c\s203372_lab06\es01\libpila.h
+
+1415384607 d:\luca\programmi in c\s203372_lab06\es01\libpriorita.h
+
+1415404206 source:d:\luca\programmi in c\s203372_lab06\es01\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"libpila.h"
+	"libvar.h"
+
+1415809736 source:d:\luca\programmi in c\s203372_lab06\es01\priorita.c
+	<stdio.h>
+	<stdlib.h>
+	"libpriorita.h"
+	"libvar.h"
+

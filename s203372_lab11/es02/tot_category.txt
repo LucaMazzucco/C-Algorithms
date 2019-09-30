@@ -1,0 +1,5 @@
+Base  566  283
+Bronze  162  81
+Silver  588  294
+Gold  766  383
+Premium  774  387

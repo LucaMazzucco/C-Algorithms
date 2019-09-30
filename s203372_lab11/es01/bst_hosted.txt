@@ -1,0 +1,9 @@
+0  nodo10
+1  nodo4
+2  nodo8
+3  nodo3
+5  nodo1
+6  nodo7
+7  nodo2
+8  nodo9
+9  nodo5

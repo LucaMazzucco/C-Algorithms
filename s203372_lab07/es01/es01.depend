@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1415965631 source:c:\users\s203372\desktop\es01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libfifo.h"
+
+1415965308 c:\users\s203372\desktop\es01\libfifo.h
+
+1415965812 source:c:\users\s203372\desktop\es01\fifo.c
+	<stdio.h>
+	<stdlib.h>
+	"Libvar.h"
+
+1415965308 c:\users\s203372\desktop\es01\libvar.h
+
+1415965814 source:c:\users\luca\downloads\es01\fifo.c
+	<stdio.h>
+	<stdlib.h>
+	"Libvar.h"
+
+1415966004 c:\users\luca\downloads\es01\libvar.h
+
+1415965632 source:c:\users\luca\downloads\es01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libfifo.h"
+
+1415965310 c:\users\luca\downloads\es01\libfifo.h
+
+1415987188 source:d:\luca\programmi in c\s203372_lab07\es01\fifo.c
+	<stdio.h>
+	<stdlib.h>
+	"Libvar.h"
+	"libfifo.h"
+
+1415966004 d:\luca\programmi in c\s203372_lab07\es01\libvar.h
+
+1415986996 source:d:\luca\programmi in c\s203372_lab07\es01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libfifo.h"
+
+1415986562 d:\luca\programmi in c\s203372_lab07\es01\libfifo.h
+
